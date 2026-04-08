@@ -1,0 +1,2 @@
+# noticeSchedule
+noticeTimetable から時間割を取得する機能を削除したボット
